@@ -280,6 +280,8 @@ void display (int side[], int currentSide, int top[], int bottom[], int leftt[],
 	outtextxy(240, 220, "select it.");
 	outtextxy(240, 240, "Use arrows");
 	outtextxy(240, 260, "to rotate.");
+	outtextxy(120, 290, "Made By Zain-Ul-Abideen");
+
 
 	printSide(currentSide);
 }

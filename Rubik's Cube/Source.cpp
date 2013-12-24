@@ -1,7 +1,8 @@
 /*
-Written By Zain-ul-Abideen
-I have added to comments as a guide to understand my project.
-P.S. Look at my note in "rubiks.h" to assign colors to individual squares for checking.
+
+Made By Zain Ul Abideen
+I have added comments to help in understanding.
+
 */
 
 #include <stdio.h>
